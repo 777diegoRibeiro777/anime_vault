@@ -1,15 +1,15 @@
 export const data = [
   {
     id: "1",
-    name: "bleach",
+    name: "one_piece",
     image: {
       original:
-        "https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
     },
     kind: "TV",
-    episodes: 366,
-    episodes_aired: 366,
-    score: "7.92",
+    episodes: 1090,
+    episodes_aired: 1030,
+    score: "9.98",
   },
   {
     id: "2",
@@ -85,15 +85,15 @@ export const data = [
   },
   {
     id: "9",
-    name: "one_piece",
+    name: "bleach",
     image: {
       original:
-        "https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
     },
     kind: "TV",
-    episodes: 1030,
-    episodes_aired: 1030,
-    score: "8.58",
+    episodes: 366,
+    episodes_aired: 366,
+    score: "7.92",
   },
   {
     id: "10",
